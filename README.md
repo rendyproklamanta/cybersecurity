@@ -42,3 +42,8 @@
 - enable only TLS1.1 & TLS1.3
 - always redirect to SSL (https)
 - add_header for security
+
+## Secerets management
+- docker secrets
+- kubernetes secrets
+- hashicorp vault
